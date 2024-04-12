@@ -1,0 +1,8 @@
+[tools]
+node = '20'
+pnpm = '8.15.6'
+python = '3.12'
+hasura-cli = '2.38.1'
+
+[env]
+_.python.venv = { path = ".venv", create = true }

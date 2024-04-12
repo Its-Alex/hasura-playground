@@ -1,0 +1,5 @@
+version: 3
+endpoint: http://localhost:8080
+metadata_directory: hasura/metadata
+seeds_directory: hasura/seeds
+migrations_directory: hasura/migrations
